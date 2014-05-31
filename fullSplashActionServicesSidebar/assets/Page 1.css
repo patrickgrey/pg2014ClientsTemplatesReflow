@@ -1,0 +1,321 @@
+/* This code is only meant for previewing your Reflow design. */
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+    background-image:-webkit-linear-gradient(270deg,white 0%,rgb(167,167,167) 100%);
+    background-attachment: scroll;
+    background-size: auto;
+    position: relative;
+    background-position: 0% 0%;
+    background-repeat: repeat repeat;
+}
+
+#text2 {
+    float: right;
+    font-size: 1em;
+    width: 9.998046875em;
+    height: auto;
+    text-align: right;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 0px;
+    margin-top: 40px;
+    clear: none;
+    min-height: 31px;
+    color: rgb(255, 255, 255);
+    margin-right: 1.740988%;
+}
+
+#SocMediaButton1 {
+    float: left;
+    height: 40px;
+    font-size: 1em;
+    margin-left: -0.0658039%;
+    margin-top: 0px;
+    clear: none;
+    width: 28.071163%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    margin-right: 0%;
+}
+
+#SocMediaButton11 {
+    float: left;
+    height: 40px;
+    font-size: 1em;
+    margin-left: 7.710024%;
+    margin-top: 0px;
+    clear: none;
+    width: 28.071163%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    margin-right: 0%;
+}
+
+#socialMedia {
+    float: right;
+    height: auto;
+    margin-left: 0px;
+    margin-top: 7px;
+    clear: right;
+    width: 8.6728515625em;
+    margin-right: 1.768911%;
+}
+
+#SocMediaButton12 {
+    float: left;
+    height: 40px;
+    font-size: 1em;
+    margin-left: 72.230752%;
+    margin-top: -40px;
+    clear: both;
+    width: 28.071163%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    margin-right: 0%;
+}
+
+#splashContainer {
+    float: left;
+    height: 364px;
+    clear: both;
+    width: 100%;
+    position: absolute;
+    top: 140px;
+    left: 0%;
+    z-index: 0;
+    background-image:url("img/dummySplashImage_16x9.png");
+    background-attachment: scroll;
+    background-size: auto;
+    background-position: 0% 0%;
+    background-repeat: repeat repeat;
+}
+
+#logo {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 1.754304%;
+    margin-top: 20px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0%;
+}
+
+#callToActionContainer {
+    float: left;
+    height: 294px;
+    margin-left: 1.742384%;
+    margin-top: 40px;
+    clear: both;
+    width: 35.286069%;
+    background-color: rgba(255, 255, 255, 0.741176);
+    min-width: 22em;
+    max-width: 25em;
+    margin-right: 0%;
+}
+
+#text {
+    float: left;
+    font-size: 1.5em;
+    width: 90.619728%;
+    height: auto;
+    text-align: left;
+    font-weight: 600;
+    line-height: 1em;
+    margin-left: 4.683069%;
+    margin-top: 20px;
+    clear: none;
+    min-height: 41px;
+}
+
+#text1 {
+    float: left;
+    font-size: 1em;
+    width: 90.624168%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1.5em;
+    margin-left: 4.683069%;
+    margin-top: 1px;
+    clear: both;
+    min-height: 162px;
+}
+
+#input3 {
+    float: right;
+    height: 41px;
+    font-size: 1em;
+    margin-left: 0px;
+    margin-top: 8px;
+    clear: both;
+    width: 181.375px;
+    margin-right: 4.69558%;
+}
+
+#input2 {
+    float: left;
+    height: 56px;
+    font-size: 1em;
+    margin-left: 74.82166%;
+    margin-top: -56px;
+    clear: both;
+    width: 97.109375px;
+    margin-right: 0%;
+}
+
+#input1 {
+    float: left;
+    height: 56px;
+    font-size: 1em;
+    margin-left: 12.281128%;
+    margin-top: 0px;
+    clear: none;
+    width: 97.109375px;
+    margin-right: 0%;
+}
+
+#input {
+    float: left;
+    height: 56px;
+    font-size: 1em;
+    margin-left: 0.11348898%;
+    margin-top: 0px;
+    clear: none;
+    width: 96.65625px;
+    margin-right: 0%;
+}
+
+#box {
+    float: right;
+    height: auto;
+    margin-left: 0px;
+    margin-top: 40px;
+    clear: none;
+    width: 385.5px;
+    margin-right: 1.765268%;
+}
+
+#text3 {
+    float: left;
+    font-size: 0.8em;
+    width: 24.997906%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1.7em;
+    margin-left: 3.414961%;
+    margin-top: 15px;
+    clear: both;
+    min-height: 30px;
+    margin-right: 0%;
+    color: rgb(255, 255, 255);
+}
+
+#content {
+    float: none;
+    height: 1131px;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: 70.698437%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+    max-width: 70em;
+    margin-right: auto;
+}
+
+#sideBar {
+    float: left;
+    height: 599px;
+    margin-left: 1.701896%;
+    margin-top: 5px;
+    clear: none;
+    width: 36.136319%;
+}
+
+#text5 {
+    float: left;
+    font-size: 1.5em;
+    width: 90.584917%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 4.929663%;
+    margin-top: 20px;
+    clear: none;
+    min-height: 40px;
+}
+
+#text6 {
+    float: left;
+    font-size: 1.5em;
+    width: 90.584917%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 4.929663%;
+    margin-top: 171px;
+    clear: both;
+    min-height: 40px;
+    margin-right: 0%;
+}
+
+#services {
+    float: left;
+    height: 599px;
+    margin-left: 1.71865%;
+    margin-top: 5px;
+    clear: left;
+    width: 58.644905%;
+}
+
+#text4 {
+    float: left;
+    font-size: 1.5em;
+    width: 94.745098%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 2.861496%;
+    margin-top: 20px;
+    clear: none;
+    min-height: 40px;
+    margin-right: 0%;
+}
+
+#tweet {
+    float: left;
+    height: 73px;
+    margin-left: 4.929663%;
+    margin-top: 20px;
+    clear: both;
+    width: 90.584917%;
+}
+
+#article {
+    float: left;
+    height: 73px;
+    margin-left: 4.929663%;
+    margin-top: 20px;
+    clear: both;
+    width: 90.584917%;
+    margin-right: 0%;
+}
+
