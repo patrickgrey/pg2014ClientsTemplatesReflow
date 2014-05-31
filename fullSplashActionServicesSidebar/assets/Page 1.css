@@ -161,7 +161,7 @@
     margin-top: 8px;
     clear: both;
     width: 181.375px;
-    margin-right: 4.69558%;
+    margin-right: 4.688613%;
 }
 
 #input2 {
@@ -288,7 +288,7 @@
 #text4 {
     float: left;
     font-size: 1.5em;
-    width: 94.745098%;
+    width: 94.743483%;
     height: auto;
     text-align: left;
     font-weight: normal;
@@ -317,5 +317,14 @@
     clear: both;
     width: 90.584917%;
     margin-right: 0%;
+}
+
+#box1 {
+    float: left;
+    height: 211px;
+    margin-left: 2.854422%;
+    margin-top: 20px;
+    clear: both;
+    width: 32.758005%;
 }
 
