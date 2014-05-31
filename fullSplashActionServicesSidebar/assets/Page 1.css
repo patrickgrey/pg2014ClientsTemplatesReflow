@@ -22,11 +22,11 @@
     font-weight: normal;
     line-height: 1em;
     margin-left: 0px;
-    margin-top: 40px;
+    margin-top: 80px;
     clear: none;
     min-height: 31px;
     color: rgb(255, 255, 255);
-    margin-right: 1.740988%;
+    margin-right: 1.739581%;
 }
 
 #SocMediaButton1 {
@@ -66,7 +66,7 @@
     margin-top: 7px;
     clear: right;
     width: 8.6728515625em;
-    margin-right: 1.768911%;
+    margin-right: 1.768149%;
 }
 
 #SocMediaButton12 {
@@ -115,10 +115,10 @@
 #callToActionContainer {
     float: left;
     height: 294px;
-    margin-left: 1.742384%;
-    margin-top: 40px;
+    margin-left: 1.738282%;
+    margin-top: 80px;
     clear: both;
-    width: 35.286069%;
+    width: 44.856836%;
     background-color: rgba(255, 255, 255, 0.741176);
     min-width: 22em;
     max-width: 25em;
@@ -164,60 +164,65 @@
     margin-right: 4.688613%;
 }
 
-#input2 {
-    float: left;
+#input {
+    float: right;
     height: 56px;
     font-size: 1em;
-    margin-left: 74.82166%;
-    margin-top: -56px;
-    clear: both;
+    clear: none;
     width: 97.109375px;
-    margin-right: 0%;
+    position: absolute;
+    top: 0px;
+    left: auto;
+    right: 0px;
 }
 
 #input1 {
-    float: left;
+    float: right;
     height: 56px;
     font-size: 1em;
-    margin-left: 12.281128%;
-    margin-top: 0px;
     clear: none;
     width: 97.109375px;
-    margin-right: 0%;
+    position: absolute;
+    top: 0px;
+    left: auto;
+    right: 125.125px;
 }
 
-#input {
-    float: left;
+#input2 {
+    float: right;
     height: 56px;
     font-size: 1em;
-    margin-left: 0.11348898%;
-    margin-top: 0px;
     clear: none;
     width: 96.65625px;
-    margin-right: 0%;
+    position: absolute;
+    top: 0px;
+    left: auto;
+    right: 250.28125px;
 }
 
-#box {
+#menuContainer {
     float: right;
-    height: auto;
+    height: 56px;
     margin-left: 0px;
     margin-top: 40px;
     clear: none;
-    width: 385.5px;
-    margin-right: 1.765268%;
+    width: 34.398888%;
+    margin-right: 1.686512%;
+    position: relative;
+    overflow: visible;
 }
 
 #text3 {
     float: left;
     font-size: 0.8em;
-    width: 24.997906%;
+    width: 93.166341%;
     height: auto;
     text-align: left;
     font-weight: normal;
     line-height: 1.7em;
-    margin-left: 3.414961%;
-    margin-top: 15px;
-    clear: both;
+    margin-left: 3.414838%;
+    margin-top: 231px;
+    clear: right;
     min-height: 30px;
     margin-right: 0%;
     color: rgb(255, 255, 255);
@@ -225,11 +230,11 @@
 
 #content {
     float: none;
-    height: 1131px;
+    height: auto;
     margin-left: auto;
     margin-top: 0px;
     clear: none;
-    width: 70.698437%;
+    width: 70.69656%;
     position: relative;
     top: 0px;
     left: 0px;
@@ -240,17 +245,17 @@
 
 #sideBar {
     float: left;
-    height: 599px;
-    margin-left: 1.701896%;
-    margin-top: 5px;
+    height: auto;
+    margin-left: -34.520728%;
+    margin-top: 50px;
     clear: none;
-    width: 36.136319%;
+    width: 36.131576%;
 }
 
-#text5 {
+#text11 {
     float: left;
     font-size: 1.5em;
-    width: 90.584917%;
+    width: 90.581231%;
     height: auto;
     text-align: left;
     font-weight: normal;
@@ -261,16 +266,16 @@
     min-height: 40px;
 }
 
-#text6 {
+#text18 {
     float: left;
     font-size: 1.5em;
-    width: 90.584917%;
+    width: 90.581231%;
     height: auto;
     text-align: left;
     font-weight: normal;
     line-height: 1em;
-    margin-left: 4.929663%;
-    margin-top: 171px;
+    margin-left: 4.706931%;
+    margin-top: 18.625px;
     clear: both;
     min-height: 40px;
     margin-right: 0%;
@@ -278,17 +283,17 @@
 
 #services {
     float: left;
-    height: 599px;
-    margin-left: 1.71865%;
-    margin-top: 5px;
-    clear: left;
-    width: 58.644905%;
+    height: auto;
+    margin-left: -94.866791%;
+    margin-top: 50px;
+    clear: none;
+    width: 60.346063%;
 }
 
 #text4 {
     float: left;
     font-size: 1.5em;
-    width: 94.743483%;
+    width: 94.32967%;
     height: auto;
     text-align: left;
     font-weight: normal;
@@ -302,29 +307,426 @@
 
 #tweet {
     float: left;
-    height: 73px;
-    margin-left: 4.929663%;
+    height: auto;
+    margin-left: 4.91712%;
     margin-top: 20px;
     clear: both;
-    width: 90.584917%;
+    width: 90.581231%;
 }
 
 #article {
     float: left;
-    height: 73px;
-    margin-left: 4.929663%;
+    height: auto;
+    margin-left: 4.707243%;
     margin-top: 20px;
     clear: both;
-    width: 90.584917%;
+    width: 90.581231%;
     margin-right: 0%;
+}
+
+#box {
+    float: left;
+    height: auto;
+    margin-left: 2.822441%;
+    margin-top: 20px;
+    clear: both;
+    width: 27.481781%;
+}
+
+#image {
+    float: left;
+    width: 100%;
+    height: auto;
+    margin-left: -0.01704013%;
+    margin-top: 0px;
+    clear: both;
+    color: rgb(0, 0, 0);
+    min-width: 0px;
 }
 
 #box1 {
     float: left;
-    height: 211px;
-    margin-left: 2.854422%;
+    height: auto;
+    margin-left: 6.887218%;
+    margin-top: 20px;
+    clear: none;
+    width: 27.481781%;
+    margin-right: 0%;
+}
+
+#image1 {
+    float: left;
+    width: 100%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: both;
+    color: rgb(0, 0, 0);
+    min-width: 0px;
+}
+
+#box2 {
+    float: left;
+    height: auto;
+    margin-left: 4.976287%;
+    margin-top: 20px;
+    clear: none;
+    width: 27.486408%;
+    margin-right: 0%;
+}
+
+#image2 {
+    float: left;
+    width: 100%;
+    height: auto;
+    margin-left: -0.00933097%;
+    margin-top: 0px;
+    clear: both;
+    color: rgb(0, 0, 0);
+    min-width: 0px;
+}
+
+#text5 {
+    float: left;
+    font-size: 1em;
+    width: 100.130658%;
+    height: auto;
+    text-align: center;
+    font-weight: bold;
+    line-height: 1em;
+    margin-left: -0.13632104%;
+    margin-top: 0px;
+    clear: none;
+    min-height: 28px;
+}
+
+#text7 {
+    float: left;
+    font-size: 1em;
+    width: 100.130658%;
+    height: auto;
+    text-align: center;
+    font-weight: bold;
+    line-height: 1em;
+    margin-left: -0.01704013%;
+    margin-top: 0px;
+    clear: none;
+    min-height: 28px;
+    margin-right: 0%;
+}
+
+#text9 {
+    float: left;
+    font-size: 1em;
+    width: 100.111972%;
+    height: auto;
+    text-align: center;
+    font-weight: bold;
+    line-height: 1em;
+    margin-left: -0.01703723%;
+    margin-top: 0px;
+    clear: none;
+    min-height: 28px;
+    margin-right: 0%;
+}
+
+#text6 {
+    float: left;
+    font-size: 1em;
+    width: 100.136321%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: -0.13632104%;
     margin-top: 20px;
     clear: both;
-    width: 32.758005%;
+    min-height: 126px;
+}
+
+#image3 {
+    float: left;
+    width: 20.813008%;
+    max-width: none;
+    height: 89.473684%;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 0px;
+    min-height: 0px;
+}
+
+#text12 {
+    float: right;
+    font-size: 1em;
+    width: 45.695631%;
+    height: auto;
+    text-align: left;
+    font-weight: bold;
+    line-height: 1em;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    min-height: 23px;
+    margin-right: 29.172148%;
+}
+
+#text13 {
+    float: right;
+    font-size: 1em;
+    width: 74.844596%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 0px;
+    margin-top: 5px;
+    clear: right;
+    min-height: 0px;
+    margin-right: 0%;
+}
+
+#tweet1 {
+    float: left;
+    height: auto;
+    margin-left: 4.706931%;
+    margin-top: 20px;
+    clear: both;
+    width: 90.581231%;
+    margin-right: 0%;
+}
+
+#image4 {
+    float: left;
+    width: 20.813008%;
+    max-width: none;
+    height: 77.272727%;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 0px;
+    min-height: 0px;
+}
+
+#text14 {
+    float: right;
+    font-size: 1em;
+    width: 45.696993%;
+    height: auto;
+    text-align: left;
+    font-weight: bold;
+    line-height: 1em;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    min-height: 23px;
+    margin-right: 28.049636%;
+}
+
+#text15 {
+    float: right;
+    font-size: 1em;
+    width: 73.728012%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 0px;
+    margin-top: 5px;
+    clear: right;
+    min-height: 60px;
+    margin-right: 0.05700254%;
+}
+
+#tweet2 {
+    float: left;
+    height: auto;
+    margin-left: 4.553004%;
+    margin-top: 20px;
+    clear: both;
+    width: 90.581231%;
+    margin-right: 0%;
+}
+
+#image5 {
+    float: left;
+    width: 20.813008%;
+    max-width: none;
+    height: 77.272727%;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    min-width: 0px;
+    min-height: 0px;
+}
+
+#text16 {
+    float: right;
+    font-size: 1em;
+    width: 45.696993%;
+    height: auto;
+    text-align: left;
+    font-weight: bold;
+    line-height: 1em;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    min-height: 23px;
+    margin-right: 27.48838%;
+}
+
+#text17 {
+    float: right;
+    font-size: 1em;
+    width: 73.728012%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 0px;
+    margin-top: 5px;
+    clear: right;
+    min-height: 60px;
+    margin-right: 0.05700254%;
+}
+
+#text8 {
+    float: left;
+    font-size: 1em;
+    width: 100.136325%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: -0.34531031%;
+    margin-top: 20px;
+    clear: both;
+    min-height: 126px;
+    margin-right: 0%;
+}
+
+#text10 {
+    float: left;
+    font-size: 1em;
+    width: 100.117638%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 0%;
+    margin-top: 20px;
+    clear: both;
+    min-height: 126px;
+    margin-right: 0%;
+}
+
+#text19 {
+    float: left;
+    font-size: 1em;
+    width: 34.197087%;
+    height: auto;
+    text-align: left;
+    font-weight: bold;
+    line-height: 1em;
+    margin-left: 0.24115756%;
+    margin-top: 0px;
+    clear: none;
+    min-height: 25px;
+}
+
+#text20 {
+    float: left;
+    font-size: 1em;
+    width: 100%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 0%;
+    margin-top: 1px;
+    clear: both;
+    min-height: 48px;
+    min-width: 0px;
+}
+
+#article1 {
+    float: left;
+    height: auto;
+    margin-left: 4.707243%;
+    margin-top: 20px;
+    clear: both;
+    width: 90.581231%;
+    margin-right: 0%;
+}
+
+#text21 {
+    float: left;
+    font-size: 1em;
+    width: 34.197087%;
+    height: auto;
+    text-align: left;
+    font-weight: bold;
+    line-height: 1em;
+    margin-left: 0.24115756%;
+    margin-top: 0px;
+    clear: none;
+    min-height: 25px;
+}
+
+#text22 {
+    float: left;
+    font-size: 1em;
+    width: 100%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 0%;
+    margin-top: 1px;
+    clear: both;
+    min-height: 48px;
+    min-width: 0px;
+}
+
+#article2 {
+    float: left;
+    height: auto;
+    margin-left: 4.925686%;
+    margin-top: 20px;
+    clear: both;
+    width: 90.581231%;
+    margin-right: 0%;
+}
+
+#text23 {
+    float: left;
+    font-size: 1em;
+    width: 34.197087%;
+    height: auto;
+    text-align: left;
+    font-weight: bold;
+    line-height: 1em;
+    margin-left: 0.24115756%;
+    margin-top: 0px;
+    clear: none;
+    min-height: 25px;
+}
+
+#text24 {
+    float: left;
+    font-size: 1em;
+    width: 100%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 0%;
+    margin-top: 1px;
+    clear: both;
+    min-height: 48px;
+    min-width: 0px;
 }
 
